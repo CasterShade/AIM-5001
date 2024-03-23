@@ -1,0 +1,26 @@
+[
+    {
+        "Album_Title": "No Need to Argue",
+        "Artist": "The Cranberries",
+        "Songs": ["Zombie","The Icicle Melts","Dreaming My Dreams","Yeat's Grave","No Need to Argue"],
+        "Year": 1994
+    },
+    {
+        "Album_Title": "Cross Road",
+        "Artist": "Bon Jovi",
+        "Songs": ["Runaway","Keep the Faith","Livin' on a Prayer","Wanted Dead or Alive","Blaze of Glory"],
+        "Year": 1994
+    },
+    {
+        "Album_Title": "Elephunk",
+        "Artist": "The Black Eyed Peas",
+        "Songs": ["Where Is the Love?","Anxiety","Fly Away","The Boogie That Be","Hey Mama"],
+        "Year": 2003
+    },
+    {
+        "Album_Title": "Transformers: Revenge of the Fallen – The Album",
+        "Artist": "Linkin Park",
+        "Songs": ["New Divide","21 Guns","Let It Go","Never Say Never","Burn It to the Ground"],
+        "Year": 2009
+    }
+]
